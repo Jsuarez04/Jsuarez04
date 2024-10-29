@@ -97,7 +97,7 @@ or <a href="mailto:juliorubinsky04@gmail.com"><b>email</b></a> me
 <hr width="80%" >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/julio-suarez-6a08a0273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jsuarez04" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/julio-suarez-6a08a0273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jsuarez04" height="30" width="40" /></a>
   <a href="https://www.twitch.tv/julio_rbk" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/968/223/png-transparent-logo-twitch-logos-brands-icon-thumbnail.png" alt="Jsuarez04" height="40" width="40" /></a>
 <a href="https://stackoverflow.com/users/21304875" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21304875" height="30" width="40" /></a>
 <a href="https://www.instagram.com/julio_rbk/profilecard/?igsh=YTVxM25zcDgxa3Y2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
