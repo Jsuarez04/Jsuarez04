@@ -83,10 +83,10 @@ or <a href="mailto:juliorubinsky04@gmail.com"><b>email</b></a> me
 
 <div align="center">
     <p>
-        <img src="https://github-readme-stats.vercel.app/api?username=Jsuarez04&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Jsuarez04's GitHub Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=jsuarez04&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
     </p>
     <p>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jsuarez04&theme=vue-dark&hide_border=true" alt="Jsuarez04's GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jsuarez04&theme=vue-dark&hide_border=true" />
     </p>
     <p>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jsuarez04&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Jsuarez04's Top Languages"/>
