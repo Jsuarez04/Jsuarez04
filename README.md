@@ -23,6 +23,7 @@ or <a href="mailto:juliorubinsky04@gmail.com"><b>email</b></a> me
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+<br>
     
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="65"/>
