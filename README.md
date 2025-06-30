@@ -17,7 +17,7 @@ or <a href="mailto:juliorubinsky04@gmail.com"><b>email</b></a> me
 
 </div>
 <br>
-🌱 I’m currently learning **C# & SQL**
+🌱 I’m currently learning **JS & Python**
 <img align="right" alt="Coding" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 <br>
