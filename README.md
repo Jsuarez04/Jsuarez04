@@ -64,12 +64,16 @@ or <a href="mailto:juliorubinsky04@gmail.com"><b>email</b></a> me
 
 </a>  
 
-<a href="https://github.com/Jsuarez04/HiperMod-Simulator">
+<a href="https://github.com/Jsuarez04/buscaminas.git">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=jsuarez04&repo=HiperMod-Simulator&theme=tokyonight" />
 
+</a> 
+<br>
+<a href="https://github.com/Jsuarez04/HiperMod-Simulator.git">
+        
 </a> 
 <br>
 <a href="https://github.com/Jsuarez04/Sistema-de-Ventas">
