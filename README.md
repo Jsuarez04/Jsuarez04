@@ -44,11 +44,17 @@ I am a passionate **Informatic Engineering student** at [UNEG](https://uneg.edu.
 ### 📂 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Jsuarez04/Sistema-de-Ventas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jsuarez04&repo=Sistema-de-Ventas&theme=tokyonight" />
+  <a href="https://github.com/Jsuarez04/buscaminas">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jsuarez04&repo=buscaminas&theme=tokyonight" />
   </a>
   <a href="https://github.com/Jsuarez04/RBK_CurrencyConverter">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jsuarez04&repo=RBK_CurrencyConverter&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Jsuarez04/yoko/tree/master">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jsuarez04&repo=yoko/tree/master&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Jsuarez04/lucruz/tree/master">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jsuarez04&repo=lucruz/tree/master&theme=tokyonight" />
   </a>
 </div>
 
